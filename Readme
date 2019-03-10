@@ -1,0 +1,31 @@
+Stock Management
+An online shopping website . 
+It has both customer and admin end.
+
+Customer can :
+View products 
+purchase products 
+provide feedback 
+reset their password 
+
+Admin can :
+Add products 
+Update product information 
+View products 
+Delete products 
+Reset password. 
+
+Technologies used:
+Frontend:
+Servlet 
+JSP 
+Materialize Framework. 
+
+Backend:
+Spring MVC Framework 
+Maven 
+Javamail 
+Hibernate with H2 database 
+
+Server:
+Apache Tomcat. 
